@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.4
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -59,24 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|95645000|86005000|845a7aa0-89c3-4ab6-b709-96ff72987994|b44ad9c6-3b30-4540-9052-e567352cda44",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|100000000|93000000|b44ad9c6-3b30-4540-9052-e567352cda44|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|106350000|60500000|29435581-b7ae-4db8-a7f3-32f837feec1a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|88000000|93000000|845a7aa0-89c3-4ab6-b709-96ff72987994|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

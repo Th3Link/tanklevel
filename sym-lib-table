@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "awesome")(type "KiCad")(uri "${KIPRJMOD}/../awesome-kicad-library/awesome.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "awesome")(type "KiCad")(uri "${KIPRJMOD}/th3link-kicad-library/awesome.kicad_sym")(options "")(descr ""))
 )
